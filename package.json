@@ -1,0 +1,32 @@
+{
+  "name": "static-jenkins-skeleton",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "g": "~1.0.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.2.0",
+    "grunt-contrib-concat": "~0.1.3",
+    "grunt-contrib-cssmin": "~0.4.2",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-mincss": "~0.3.2",
+    "grunt-contrib-sass": "~0.3.0",
+    "grunt-contrib-uglify": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-exec": "~0.4.2",
+    "grunt-imageoptim": "~1.2.6",
+    "jshint": "~0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fuzzy31u/static-jenkins-skeleton.git"
+  },
+  "author": "fuzzy31u",
+  "license": "",
+  "gitHead": ""
+}
